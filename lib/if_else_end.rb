@@ -1,2 +1,3 @@
 # Write your solution here
-if 
+var time = Time.now
+puts "Even!" if (time % 2 == 0)
